@@ -1,0 +1,4 @@
+/.mypy_cache
+/.streamlit
+/.venv
+/__pycache__
