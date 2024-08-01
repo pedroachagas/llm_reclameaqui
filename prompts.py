@@ -90,21 +90,7 @@ Lembre-se de:
 - Ser específico ao abordar cada ponto levantado pelo cliente
 - Alinhar sua resposta com a diretriz da empresa, mantendo o foco no cliente
 
-Escreva sua resposta em português, pois a reclamação está em português.
-
-Exemplo de estrutura da resposta:
-
-Prezada/o [Nome do Cliente],
-
-Agradecemos por nos contatar e nos informar sobre sua experiência. Entendemos completamente suas preocupações em relação a [resumo da reclamação].
-
-Gostaríamos de explicar a situação com base na nossa diretriz: [explicação detalhada da diretriz].
-
-Para resolver essa questão, propomos a seguinte solução: [solução ou próximos passos].
-
-Lamentamos sinceramente pelo inconveniente que isso possa ter causado e agradecemos por sua paciência enquanto trabalhamos para resolver isso.
-
-Por favor, entre em contato conosco se precisar de mais alguma assistência. Estamos aqui para ajudar.
+Escreva sua resposta em português, pois a reclamação está em português. Mantenha o tom profissional e empático ao lidar com as preocupações do cliente.
 
 Atenciosamente,
 [Seu Nome]
